@@ -10,12 +10,12 @@ API Level 26からProgressDialogがdeprecatedに。
 ```
 repositories {
     maven {
-        url 'https://sugtao4423.github.io/android-ProgressDialog/repository'
+        url 'https://jitpack.io'
     }
 }
 
 dependencies {
-    implementation 'sugtao4423.support:progressdialog:1.0.0'
+    implementation 'com.github.sugtao4423:android-ProgressDialog:1.0.0'
 }
 ```
 
