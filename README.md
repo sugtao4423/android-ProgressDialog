@@ -1,4 +1,6 @@
 # android-ProgressDialog
+[![](https://jitpack.io/v/sugtao4423/android-ProgressDialog.svg)](https://jitpack.io/#sugtao4423/android-ProgressDialog)
+
 API Level 26からProgressDialogがdeprecatedに。
 
 しかし俺は永遠に使うぞ
